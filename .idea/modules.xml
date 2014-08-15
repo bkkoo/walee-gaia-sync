@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/gaia-model.iml" filepath="$PROJECT_DIR$/.idea_modules/gaia-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/gaia-model-build.iml" filepath="$PROJECT_DIR$/.idea_modules/gaia-model-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/gaia-sync.iml" filepath="$PROJECT_DIR$/.idea_modules/gaia-sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/gaia-sync-build.iml" filepath="$PROJECT_DIR$/.idea_modules/gaia-sync-build.iml" />
+    </modules>
+  </component>
+</project>
+
