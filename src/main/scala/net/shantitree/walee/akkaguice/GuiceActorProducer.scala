@@ -1,4 +1,4 @@
-package net.shantitree.walee.gaia.akkaguice
+package net.shantitree.walee.akkaguice
 
 import akka.actor.{Actor, IndirectActorProducer}
 import com.google.inject.{Injector, Key}

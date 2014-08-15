@@ -24,6 +24,8 @@ fork := true
 
 javaOptions += "-Xmx2G"
 
+mainClass in (Compile, run) := Some("net.shantitree.walee.gaia.sync.Main")
+
 
 parallelExecution := true
 

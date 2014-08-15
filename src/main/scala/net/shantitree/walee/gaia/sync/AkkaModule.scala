@@ -4,7 +4,7 @@ import akka.actor.ActorSystem
 import com.google.inject.{AbstractModule, Injector, Inject, Provider}
 import com.typesafe.config.Config
 import net.codingwell.scalaguice.ScalaModule
-import net.shantitree.walee.gaia.akkaguice.GuiceAkkaExtension
+import net.shantitree.walee.akkaguice.GuiceAkkaExtension
 import net.shantitree.walee.gaia.sync.AkkaModule.ActorSystemProvider
 
 object AkkaModule {
